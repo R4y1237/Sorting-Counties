@@ -1,0 +1,50 @@
+Antigua and Barbuda St. John's 171 69,108 
+Argentina Buenos Aires 1,068,296 39,921,833
+Belarus Mensk (Minsk) 80,154 10,293,011
+Bolivia La Paz 424,162 8,989,046 
+Bosnia and Herzegovina Sarajevo 19,741 4,498,976
+Brunei Bandar Seri Begawan 2,228 379,444 
+Burkina Faso Ouagadougou 105,869 13,902,972 
+Cambodia Phnom Penh 69,900 13,881,427 
+Cape Verde Praia 1,557 420,979 
+Central African Republic Bangui 240,534 4,303,356
+Congo, Republic of Brazzaville 132,046 3,702,314 
+Congo, Democratic Republic of the Kinshasa 905,563 62,660,551 
+Costa Rica San José 19,730 4,075,261 
+Côte d'Ivoire Yamoussoukro 124,502 17,654,843 
+Czech Republic Prague 30,450 10,235,455 
+Dominican Republic Santo Domingo 18,815 9,183,984 
+East Timor Dili 5,794 1,062,777
+El Salvador San Salvador 8,124 6,822,378 
+Equatorial Guinea Malabo 10,830 540,109 
+Ethiopia Addis Ababa 435,184 74,777,981
+Grenada St. George's 133 89,703 
+Guatemala Guatemala City 42,042 12,293,545 
+India New Delhi 1,269,338 1,095,351,995 
+Korea, North Pyongyang 46,540 23,113,019 
+Korea, South Seoul 38,023 48,846,823 
+Kuwait Kuwait City 6,880 2,418,393 
+Malaysia Kuala Lumpur 127,316 24,385,858 
+Marshall Islands Majuro 4,577 60,422 
+Mauritius Port Louis 788 1,240,827 
+Mexico Mexico City 761,602 107,449,525 
+Mongolia Ulan Bator 603,905 2,832,224 
+Myanmar (Burma) Rangoon 261,969 47,382,633 
+New Zealand Wellington 103,737 4,076,140 
+Panama Panama City 30,193 3,191,319 
+Papua New Guinea Port Moresby 178,703 5,670,544 
+St. Kitts and Nevis Basseterre 101 39,129 
+St. Lucia Castries 238 168,458 
+St. Vincent and the Grenadines Kingstown 150 117,848 
+San Marino San Marino 24 29,251 
+São Tomé and Príncipe São Tomé 386 193,413 
+Saudi Arabia Riyadh 756,981 27,019,731
+Sierra Leone Freetown 27,699 6,005,250 
+Solomon Islands Honiara 10,985 552,438 
+South Africa Pretoria 471,008 44,187,637 
+Sri Lanka Colombo 25,332 20,222,240
+Trinidad and Tobago Port-of-Spain 1,980 1,065,842 
+Ukraine Kyiv (Kiev) 233,089 46,710,816 
+United Arab Emirates Abu Dhabi 32,000 2,602,713 
+United Kingdom London 94,525 60,609,153 
+United States Washington, D.C. 3,718,691 298,444,215 
